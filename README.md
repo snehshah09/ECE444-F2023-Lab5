@@ -1,5 +1,9 @@
 # ECE444-F2023-Lab5
 
+Screenshot for Sneh's test case:
+![image](https://github.com/snehshah09/ECE444-F2023-Lab5/assets/52886440/65c2eed8-6e49-4c1f-bd6c-bd7ff7e17d73)
+
+
 What are the pros and cons of TDD? 
 
 Pros:
